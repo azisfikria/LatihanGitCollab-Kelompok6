@@ -1,8 +1,8 @@
 package com.juaracoding.kelompokenam.drivers;
 
-import com.abdulazisujianlima.drivers.strategies.DriverStrategy;
-import com.abdulazisujianlima.drivers.strategies.DriverStrategyImplementer;
-import com.abdulazisujianlima.utils.Constants;
+import com.juaracoding.kelompokenam.drivers.strategies.DriverStrategy;
+import com.juaracoding.kelompokenam.drivers.strategies.DriverStrategyImplementer;
+import com.juaracoding.kelompokenam.utils.Constants;
 import org.openqa.selenium.WebDriver;
 
 import java.util.concurrent.TimeUnit;
